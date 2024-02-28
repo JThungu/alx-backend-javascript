@@ -1,5 +1,5 @@
-const { expect } = require('chai');
 const request = require('request');
+const { expect } = require('chai');
 
 describe('Integration Testing', () => {
   describe('GET /', () => {
